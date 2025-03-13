@@ -34,14 +34,14 @@ The model was trained using **Scikit-Learn** and saved as `fraud_model.pkl` for 
 Make sure you have Python installed, then run:
 ```sh
 pip install -r requirements.txt
-2️⃣ Run the API
+### **2️⃣ Run the API**
 sh
 Copy
 Edit
 uvicorn main:app --reload
 This will start the FastAPI server on http://127.0.0.1:8000.
 
-3️⃣ Access Swagger UI
+### **3️⃣ Access Swagger UI**
 Visit:
 
 arduino
@@ -50,7 +50,7 @@ Edit
 http://127.0.0.1:8000/docs
 to test the API with Swagger.
 
-📤 API Endpoints
+### **📤 API Endpoints**
 Method	Endpoint	Description
 POST	/predict	Upload a PDF invoice & get prediction
 Example Request
@@ -75,7 +75,7 @@ Edit
     "date_of_service": "2024-03-12"
   }
 }
-🖼️ Screenshots
+### **🖼️ Screenshots**
 📌 Swagger API (Fraud Detection)
 <img width="944" alt="fraud_detection" src="https://github.com/user-attachments/assets/d9eaf72e-68d0-44a1-8ff4-45cc442ba80c" />
 
@@ -84,19 +84,19 @@ Edit
 <img width="941" alt="valid_invoice" src="https://github.com/user-attachments/assets/9c5488ad-04a7-4c14-8d0d-c9402e4f768b" />
 
 \
-🏛️ Tech Stack
+### **🏛️ Tech Stack**
 FastAPI (Backend Framework)
 Scikit-Learn (Machine Learning)
 PyMuPDF (fitz) (PDF Text Extraction)
 Pandas & NumPy (Data Processing)
 Uvicorn (ASGI Server)
 
-📌 Future Enhancements
+### **📌 Future Enhancements**
 ✅ Integrate OCR (Tesseract) for better text extraction
 ✅ Improve model accuracy with deep learning
 ✅ Add JWT authentication for security
 
-📜 License
+### **📜 License**
 This project is licensed under the MIT License.
 
 .
