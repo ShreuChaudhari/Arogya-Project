@@ -80,6 +80,8 @@ Edit
 }
 🖼️ Screenshots
 📌 Swagger API (Fraud Detection)
+<img width="944" alt="fraud_detection" src="https://github.com/user-attachments/assets/d9eaf72e-68d0-44a1-8ff4-45cc442ba80c" />
+
 
 📌 Real Invoice (Valid Detection)
 
