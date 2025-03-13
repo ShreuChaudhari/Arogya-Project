@@ -84,15 +84,16 @@ Edit
 
 
 📌 Real Invoice (Valid Detection)
+<img width="941" alt="valid_invoice" src="https://github.com/user-attachments/assets/9c5488ad-04a7-4c14-8d0d-c9402e4f768b" />
 
-📝 Note: Place your screenshots inside the screenshots/ folder.
-
+\
 🏛️ Tech Stack
 FastAPI (Backend Framework)
 Scikit-Learn (Machine Learning)
 PyMuPDF (fitz) (PDF Text Extraction)
 Pandas & NumPy (Data Processing)
 Uvicorn (ASGI Server)
+
 📌 Future Enhancements
 ✅ Integrate OCR (Tesseract) for better text extraction
 ✅ Improve model accuracy with deep learning
@@ -101,3 +102,7 @@ Uvicorn (ASGI Server)
 📜 License
 This project is licensed under the MIT License.
 
+.
+
+💡 Author: Shreya Chaudhari
+📧 Contact: shreyuchaudhari49@gmail.com
