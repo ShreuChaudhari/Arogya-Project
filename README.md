@@ -1,7 +1,4 @@
-📜 README.md
-md
-Copy
-Edit
+
 # 🏥 Fraud Detection API
 
 This is a **FastAPI-based Fraud Detection API** that predicts whether a given **medical invoice** is fraudulent or valid using a **trained machine learning model**.
