@@ -4,4 +4,4 @@ pandas
 numpy
 pymupdf
 scikit-learn
-
+python-multipart
