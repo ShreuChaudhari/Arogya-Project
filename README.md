@@ -1,6 +1,8 @@
 ## 🏥 Fraud Detection API
 This is a FastAPI-based Fraud Detection API that predicts whether a given medical invoice is fraudulent or valid using a trained machine learning model.
 
+## Deployed website : https://arogya-project-production.up.railway.app/docs
+
 ## 🚀 Features
 - 📄 Upload a medical invoice in PDF format.
 - 🔍 Extract invoice text using PyMuPDF (OCR support can be added).
